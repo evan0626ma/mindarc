@@ -1,0 +1,7 @@
+Explain why the result of ('b' + 'a' + + 'a' + 'a').toLowerCase() is banana.
+
+
+1. 'a' + 'a' will display 
+    aNaNa
+2. toLowerCase() is a method to convert string to all lower case letter
+

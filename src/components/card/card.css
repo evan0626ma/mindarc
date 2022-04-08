@@ -1,0 +1,29 @@
+
+.container {
+    height: 100vh;
+    margin:50px auto;
+    
+   
+}
+
+.container  .card_item{
+    width: 400px;
+    height: 600px;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 10px 10px 10px;
+  
+} 
+.container  .card_item img{
+    width: 100%;
+    height: 300px;
+}
+.container .content_description {
+    overflow: hidden;
+    height: 65px;
+}
+
+.container .card_content:first-child .content_description { 
+    overflow: visible;
+}
+
+
